@@ -1,0 +1,22 @@
+{
+  "name": "@goldix.org/profiler",
+  "version": "0.0.1",
+  "description": "Base profiler with statistics for last measurements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-profiler.git"
+  },
+  "keywords": [
+    "goldix.org"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-profiler/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-profiler#readme"
+}
